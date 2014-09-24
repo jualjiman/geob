@@ -6423,52 +6423,22 @@ input:focus {
   vertical-align: top;
 }
 
-/*==========================COLORS=======================*/
-
-.red{
-  background: #fe6560;
+/*==========================BACKGROUND COLORS=======================*/
+.red{background: #fe6560;}
+.light-blue{background: #50c7dc;}
+.blue{background: #65cebd;}
+.dark-blue{background: #6c9de1;}
+.pink{background: #d66d93;}
+.purple{background: #7e4d7a;}
+.yellow{background: #eacb5f;}
+.brown{background: #a8997b;}
+.gray{background: #c1ba9c;}
+.orange{background: #e58762;}
+.green{background: #95d355;}
+/*==========================FOREGROUND COLORS=======================*/
+.white-f{
+  color: white;
 }
-
-.light-blue{
-  background: #50c7dc;
-}
-
-.blue{
-  background: #65cebd;
-}
-
-.dark-blue{
-  background: #6c9de1;
-}
-
-.pink{
-  background: #d66d93;
-}
-
-.purple{
-  background: #7e4d7a;
-}
-
-.yellow{
-  background: #eacb5f;
-}
-
-.brown{
-  background: #a8997b;
-}
-
-.gray{
-  background: #c1ba9c;
-}
-
-.orange{
-  background: #e58762;
-}
-
-.green{
-  background: #95d355;
-}
-
 /*============================================================*/
 
 .cat-ico{

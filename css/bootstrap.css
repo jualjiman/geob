@@ -5146,9 +5146,6 @@ a.list-group-item-danger.active:focus {
   border: 0;
   margin-bottom: 0;
 }
-.panel-group {
-  margin-bottom: 21px;
-}
 .panel-group .panel {
   margin-bottom: 0;
   border-radius: 4px;
@@ -6402,7 +6399,7 @@ input:focus {
   box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.05);
 }
 
-.category h5{
+.category h4{
   margin-top: 20px;
 }
 
@@ -6421,6 +6418,16 @@ input:focus {
 .inline-block{
   display: inline-block;
   vertical-align: top;
+}
+
+.backButton{
+  position: absolute;
+  top: 20%;
+  right: 0;
+}
+
+.p-relative{
+  position: relative;
 }
 
 /*==========================BACKGROUND COLORS=======================*/
